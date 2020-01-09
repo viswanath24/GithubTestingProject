@@ -13,6 +13,7 @@
 		A98FB89723C6F6510084E323 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A98FB89523C6F6510084E323 /* Main.storyboard */; };
 		A98FB89923C6F6540084E323 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A98FB89823C6F6540084E323 /* Assets.xcassets */; };
 		A98FB89C23C6F6540084E323 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A98FB89A23C6F6540084E323 /* LaunchScreen.storyboard */; };
+		A98FB8A423C6F8910084E323 /* UserNameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98FB8A323C6F8910084E323 /* UserNameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A98FB89823C6F6540084E323 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A98FB89B23C6F6540084E323 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A98FB89D23C6F6540084E323 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A98FB8A323C6F8910084E323 /* UserNameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserNameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A98FB89123C6F6510084E323 /* SceneDelegate.swift */,
 				A98FB89323C6F6510084E323 /* ViewController.swift */,
 				A98FB89523C6F6510084E323 /* Main.storyboard */,
+				A98FB8A323C6F8910084E323 /* UserNameViewController.swift */,
 				A98FB89823C6F6540084E323 /* Assets.xcassets */,
 				A98FB89A23C6F6540084E323 /* LaunchScreen.storyboard */,
 				A98FB89D23C6F6540084E323 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				A98FB89423C6F6510084E323 /* ViewController.swift in Sources */,
 				A98FB89023C6F6510084E323 /* AppDelegate.swift in Sources */,
+				A98FB8A423C6F8910084E323 /* UserNameViewController.swift in Sources */,
 				A98FB89223C6F6510084E323 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
